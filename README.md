@@ -1,16 +1,25 @@
-# weather
+# Current Location Weather App
 
-A new Flutter project.
+A Flutter app that displays the current weather information for the user's location using the Bloc pattern and the OpenWeather API.
+
+## Features
+
+- Fetches real-time weather data based on the user's current location.
+- Utilizes the Bloc pattern for state management.
+- Displays weather information including temperature, weather conditions, sunrise, sunset, etc.
+- Beautiful and responsive user interface.
+
+## Technologies Used
+
+- Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Bloc: A predictable state management library for Dart and Flutter applications.
+- OpenWeather API: Provides weather data for any location in the world.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/current-location-weather-app.git
